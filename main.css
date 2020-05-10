@@ -4,5 +4,6 @@
 }
 
 body {
+  color: white;
   background-image: paint(dark);
 }
