@@ -1,6 +1,6 @@
 # test-css-houdini-api
 
-:ledger: CSS Houdini API (Paint API)
+:ledger: Testing CSS Houdini API (Paint API)
 
 ## Demo 🚀
 
