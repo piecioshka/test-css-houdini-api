@@ -1,10 +1,10 @@
-# css-houdini-api-example
+# test-css-houdini-api
 
 :ledger: CSS Houdini API (Paint API) — Example
 
 ## Demo 🚀
 
-<https://piecioshka.github.io/css-houdini-api-example/>
+<https://piecioshka.github.io/test-css-houdini-api/>
 
 ## License
 
