@@ -2,7 +2,7 @@
 
 :ledger: Testing CSS Houdini API (Paint API)
 
-## Demo 🚀
+## Demo 🎉
 
 <https://piecioshka.github.io/test-css-houdini-api/>
 
